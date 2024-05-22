@@ -1,0 +1,4 @@
+azure-storage-blob
+azure-ai-formrecognizer
+azure-cosmos
+python-dotenv
